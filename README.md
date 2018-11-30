@@ -1,1 +1,1 @@
-This app will return de temperture of de city you ask!!!
+This app will return de temperture of the city you ask!!!
