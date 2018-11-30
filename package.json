@@ -1,0 +1,15 @@
+{
+  "name": "app-clima",
+  "version": "1.0.0",
+  "description": "Obten el clima",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Felipe Usuga V",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "request": "^2.88.0"
+  }
+}
